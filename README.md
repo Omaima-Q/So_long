@@ -11,3 +11,6 @@ https://reactive.so/post/42-a-comprehensive-guide-to-so_long/
 https://42-cursus.gitbook.io/guide/minilibx
 
 https://harm-smits.github.io/42docs/libs/minilibx.html
+
+read them carefully 🤓
+
