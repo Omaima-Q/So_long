@@ -1,4 +1,4 @@
-Introduction:
+🔴 Introduction:
 
 In this project we are going to create a 2D game using Minilibx library.
 
